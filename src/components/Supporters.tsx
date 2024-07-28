@@ -24,7 +24,7 @@ const Supporters = () => {
           Supported By
         </h2>
         <div
-          className="flex overflow-x-auto lg:justify-center lg:gap-x-4 items-center w-full"
+          className="flex overflow-x-auto lg:justify-center lg:gap-x-4 items-center w-full no-scrollbar"
           data-aos="fade-down"
           data-aos-anchor-placement="center-bottom"
           data-aos-delay="500"
