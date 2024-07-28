@@ -110,7 +110,7 @@ const Header = () => {
           For Hospitals in Bangladesh
         </p>
         <a
-          href="https://bloodlink.app/"
+          href="https://drive.google.com/file/d/1-AQ5rkFix7vR2cHJZl-EsDC_iUFvdmwZ/view?usp=share_link "
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#BF0000] text-[#fff] text-lg sm:text-xl lg:text-2xl px-6 py-3 sm:px-8 sm:py-4 mt-8 lg:mt-16 flex items-center gap-x-2 hover:gap-x-3 transition-all"
