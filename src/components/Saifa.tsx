@@ -22,7 +22,7 @@ const Saifa = () => {
         >
           I’m the 17-year-old co-founder of{" "}
           <a
-            href="sbdcms.org"
+            href="https://www.sbdcms.org"
             target="_blank"
             className="underline hover:no-underline"
           >
